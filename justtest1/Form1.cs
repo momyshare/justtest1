@@ -18,7 +18,7 @@ namespace justtest1
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("my Test 13");
+            MessageBox.Show("my Test 136");
 			MessageBox.Show("my Test 2");
         }
     }
